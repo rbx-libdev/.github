@@ -1,2 +1,0 @@
-# rbx-libdev
-Readme organization
