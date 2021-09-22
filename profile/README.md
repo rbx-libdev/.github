@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-  <img src="/resources/header.svg" width="100%" height="300em" t="RoAPI" />
+  <img src="/resources/header.svg" width="100%" height="300em" alt="RoAPI, a community for Roblox web developers" />
 </p>
 
 <p align="center">
